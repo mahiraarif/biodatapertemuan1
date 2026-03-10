@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+body{
+    font-family : Arial, Helvetica, sans-serif;
+    background-color:#1bdf1b;
+    color: #e90707;
+    line-height : 1.6;
+    padding: 20px;
+}
+
+h1,h2{
+    margin-bottom: 10px;
+}
+
+h1{
+    text-align:center;
+    color: #2c3e50;
+}
+
+h2{
+    margin-top : 30px;
+    color: #34495e;
+}
